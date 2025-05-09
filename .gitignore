@@ -1,0 +1,9 @@
+node_modules/
+
+trades.db
+
+trade.js
+
+server.js
+
+.env
